@@ -4,7 +4,6 @@ logo: "/profile.png?raw=true" # your photo (or logo) here
 description: > #your tezt below (remove <br> elements if you don't need line breaks)
 Computer Science Engineering Student
  <br><br>
- <br>
  <a href="https://www.gihub.com/preetamguptas.com/preetamguptas/">Gihub</a>
- 
+ <br>
 theme: jekyll-theme-minimal
