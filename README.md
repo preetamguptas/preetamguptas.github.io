@@ -7,13 +7,13 @@
        
        I am a Preetam Gupta of first Year Student Currently Pursuing at
                                            
-                Computer Science Engineering 
+            Computer Science Engineering 
                                                                               
-                Dr. A.P.J. Abdul Kalam Technical University
+           Dr. A.P.J. Abdul Kalam Technical University
                                                                                  
                 
                 
-     Currently Developing My skills towards Competitive programming and Web Development
+    Currently Developing My skills towards Competitive programming and Web Development
 
 
 ## Hobbies
