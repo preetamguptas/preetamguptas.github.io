@@ -11,8 +11,9 @@ Dr. A.P.J. Abdul Kalam Technical University
     Currently Developing My skills toward     
     
  Competitive programming and Web Development
+
 ## Skills
-  C language, JAVA language, CSS,HTML,JAVA SCRIPT
+  C language,JAVA language, CSS,HTML,JAVA SCRIPT
 
 ## Hobbies
 
