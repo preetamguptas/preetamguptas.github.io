@@ -1,11 +1,11 @@
 ## Portfolio
 
-
-   Hlwoo ,
+Hlwoo ,
           
-       First of all, Thank you So Much For Coming to My Page.
+ 
+ First of all, I am very Thankful to Coming My Page.
        
-       I am a Preetam Gupta of first Year Student Currently Pursuing at
+ I am a Preetam Gupta of first Year Student Currently Pursuing at
                                            
             Computer Science Engineering 
                                                                               
