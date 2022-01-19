@@ -3,9 +3,9 @@
 Hlwoo ,
           
  
- First of all, I am very Thankful to Coming My Page.
+   First of all, I am very Thankful to Coming My Page.
       
- I am a Preetam Gupta of first Year Student Currently Pursuing
+    I am a Preetam Gupta of first Year Student Currently Pursuing
                                            
    Computer Science Engineering at
                                                                               
